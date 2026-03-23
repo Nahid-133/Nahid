@@ -1,0 +1,12 @@
+aiogram
+sqlalchemy
+psycopg2-binary
+pandas
+openpyxl
+python-dotenv
+aiohttp
+pytz
+apscheduler
+pycryptodome
+google-auth
+requests
