@@ -24,7 +24,7 @@ DEFAULT_START_MINUTE = 0
 DEFAULT_END_HOUR = 10
 DEFAULT_END_MINUTE = 0
 
-CHANNEL_LINK = "https://t.me/earning_zne"
+CHANNEL_LINK = "https://t.me/nahidbscse"
 REPORT_FOOTER_MSG = (
     f"📍 *Verify results on our* [Telegram Channel]({CHANNEL_LINK})\n"
     "🔎 `Report any faults to the administrator`"
